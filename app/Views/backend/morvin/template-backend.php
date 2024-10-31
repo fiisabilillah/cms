@@ -140,7 +140,7 @@ if ($list['user_image'] != 'default.png' && file_exists('public/img/user/' . $li
                             </span>
 
                             <span class="logo-lg">
-                                <img class="pt-3" src="<?= base_url('/public/template/backend/' . $folder . '/assets/images/cwpv11.png') ?>" alt="" height="65">
+                                <img class="pt-3" src="<?= base_url('/public/template/backend/' . $folder . '/assets/images/team.png') ?>" alt="" height="65">
                             </span>
                         </a>
 

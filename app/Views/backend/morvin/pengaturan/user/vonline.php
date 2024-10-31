@@ -231,14 +231,14 @@
         ======================================================== -->
 
 
-        <div class="border-top m-auto">
+        <!-- <div class="border-top m-auto">
             <label class="d-block text-primary mb-0 text-center"> <i class="mdi mdi-console"></i> CMS VER: <?= $vercms ?> | CI: <?= esc(\CodeIgniter\CodeIgniter::CI_VERSION) ?> </label>
 
             <p class="text-center"><a href="https:/datagoe.com/" class="text-dark" style="font-size: 12px;">Last update 10 Agustus 2024 | Tema <span class="text-success"><?= $template['nama'] ?></span> </a>
-                <!-- <a class="d-block text-dark mb-0 text-center" style="font-size: 13px;"> Tema Terpasang <i><?= $template['nama'] ?></i></a> -->
+                <a class="d-block text-dark mb-0 text-center" style="font-size: 13px;"> Tema Terpasang <i><?= $template['nama'] ?></i></a>
                 <? $kunjungan ?>
             </p>
-        </div>
+        </div> -->
         </div>
 </div>
 

@@ -339,7 +339,7 @@ if ($list['user_image'] != 'default.png' && file_exists('public/img/user/' . $li
 </script>
 
 
-<div class="modal fade" id="petunjuk">
+<!-- <div class="modal fade" id="petunjuk">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header">
@@ -356,10 +356,10 @@ if ($list['user_image'] != 'default.png' && file_exists('public/img/user/' . $li
                             Panduan Penggunaan silahkan kunjungi Channel Youtube <a href="https://www.youtube.com/playlist?list=PLa11gJo4z4Q90r53PD_tCJOSUl0JHQsjl" target="_blank" class="alert-link">DATAGOE SOFTWARE</a>.
                             <br> Informasi lain dapat kunjungi situs resmi kami <a href="https://datagoe.com/" target="_blank">datagoe.com</a>
                         </p>
-                    </div>
-                    <!-- Terima kasih atas kepercayaan Anda, yang telah menggunakan layanan kami!
+                    </div> -->
+<!-- Terima kasih atas kepercayaan Anda, yang telah menggunakan layanan kami!
                 Panduan Penggunaan Silahkan kunjungi Channel Youtube Kami <br>DATAGOE SOFTWARE <a href="https://www.youtube.com/playlist?list=PLa11gJo4z4Q90r53PD_tCJOSUl0JHQsjl" target="_blank" class="alert-link">DISINI</a> -->
-                </div>
+<!-- </div>
             </div>
             <div class="modal-footer p-0">
                 <button type="button" class="btn btn-secondary pull-left" data-bs-dismiss="modal">OK</button>
@@ -368,7 +368,7 @@ if ($list['user_image'] != 'default.png' && file_exists('public/img/user/' . $li
 
     </div>
 
-</div>
+</div> -->
 
 <!--  Modal Awesome -->
 <div class="modal fade fontawesome p-1" id="fontawesome" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true" data-bs-backdrop="static">

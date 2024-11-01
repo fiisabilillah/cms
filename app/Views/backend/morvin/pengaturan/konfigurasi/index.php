@@ -469,7 +469,7 @@
 
             </div>
             <div class="col-lg-4">
-                <div class="card mb-4 ">
+                <!-- <div class="card mb-4 ">
                     <div class="card-body p-3">
                         <i class="mdi mdi-image-filter-hdr"></i> Logo Website <small><a class="text-primary"> *Klik di gambar untuk ganti logo.</a></small>
 
@@ -493,7 +493,7 @@
                         <hr>
                         <i><small class="text-dark">Ukuran Logo akan di crop dengan ukuran tinggi <b class="text-danger"><?= esc($hplogo) ?> </b>pixels, lebar <b><?= esc($wllogo) ?> </b>pixels. Tema situs yang diterapkan <b><?= esc($temaaktif) ?></b>. </small></i>
                     </div>
-                </div>
+                </div> -->
 
                 <div class="card mb-4">
                     <div class="card-body p-2">
